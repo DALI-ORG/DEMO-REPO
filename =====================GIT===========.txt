@@ -1,0 +1,31 @@
+=====================GIT===============================12/07/25=====
+VERSION CONTROLE SYSTEM
+FILE------10LINES------V1-VERSION ID
+FILE------+10LINES-------V1 REF,V2-VERSION ID
+FILE---------7LINES-------V2 REF, V3- VERSION ID
+
+u can use the ======killercoda
+ubantu 24.04
+====>apt update
+=====>git--version
+======>mkdir demo-1
+======>ls
+=====>git init
+ls -a
+git status
+======>echo hello every one>one.html
+=======>git add one.html //it helps to add to other
+=========>git commit -m "first commit"
+HOW TO MODIFY A FILE?
+=====>ls
+======>nano one.html(add new data in the exsiting file)
+========>git status
+==========> git add one.html
+============>git log (it is used to the how many times commit)
+How to create an new html?
+=======>nano two.html
+=======>gitb add two.html
+=======>git commit -m " branch"
+=======>git branch developer-1
+========>ls
+========>
